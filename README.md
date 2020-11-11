@@ -1,2 +1,2 @@
-# KTH_MLADV1
+# KTH_MLADV
 Repository for the KTH Advanced Machine Learning course.
